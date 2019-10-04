@@ -111,6 +111,11 @@ const shadows = [
 		"shadow": "0 1px 6px rgba(0,0,0,.1), 0 2px 24px rgba(0,0,0,.2)",
 		"border": "0"
 	},
+	{
+		"name": "Materialistic Design",
+		"shadow": "0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)",
+		"border": "0"
+	}
 ]
 
 
